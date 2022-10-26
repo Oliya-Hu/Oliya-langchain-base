@@ -3,15 +3,13 @@
 Welcome to my website
 
 ************
-   ^--^
-
 ## this is me
-I come from SWUFE-UD
+I come from SWUFE-UD.\n
 My major is 'Information management and information system'
 
 ## My hobby:
-Violin
-model airplane
-calligraphy
+-Violin
+-Model airplane
+-Calligraphy
 
  
