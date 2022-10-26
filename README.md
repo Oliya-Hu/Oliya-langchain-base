@@ -1,6 +1,7 @@
 # Oliya-page
-<img width="10" src="https://i1.sndcdn.com/artworks-000511870467-i1lqjg-t500x500.jpg">
-
+<div align="center">
+<img width="1413" src="https://i1.sndcdn.com/artworks-000511870467-i1lqjg-t500x500.jpg">
+</div>
 Welcome to my website
 
 ************
